@@ -1,0 +1,16 @@
+# ------------------------------------------------------------------------------ #
+# Java defaults (https://github.com/github/gitignore/blob/master/Java.gitignore) #
+# ------------------------------------------------------------------------------ #
+*.class
+.classpath
+
+# Package Files #
+*.jar
+*.war
+*.ear
+
+# --------------- #
+# Idea-specific #
+# --------------- #
+*.iml
+.idea
