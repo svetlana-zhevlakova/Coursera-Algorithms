@@ -1,13 +1,11 @@
 package edu.unionfind;
 
-import java.util.Arrays;
-
 /**
  * Created by Svetlana_Zhevlakova on 1/26/2017.
  */
 public abstract class AbstractUnionFind implements UnionFind
 {
-	protected int[] id;
+	public int[] id;
 
 	public AbstractUnionFind(int N)
 	{

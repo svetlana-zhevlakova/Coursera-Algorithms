@@ -1,9 +1,6 @@
 package edu.unionfind.quickfind;
 
-import java.util.Arrays;
-
 import edu.unionfind.AbstractUnionFind;
-import edu.unionfind.UnionFind;
 
 /**
  * Created by Svetlana_Zhevlakova on 1/25/2017.

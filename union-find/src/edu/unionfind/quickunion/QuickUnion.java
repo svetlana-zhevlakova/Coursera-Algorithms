@@ -26,7 +26,7 @@ public class QuickUnion extends AbstractUnionFind
 		id[pRoot] = qRoot;
 	}
 
-	private int root(int element)
+	public int root(int element)
 	{
 		while (element != id[element])
 		{
